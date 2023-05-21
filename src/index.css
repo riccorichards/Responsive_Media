@@ -51,6 +51,7 @@ code {
   box-shadow: 0 5px 15px ;
   overflow: hidden;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 .containter .media-containter .media :is(video, img){
