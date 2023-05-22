@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Responsive_Media.git/static/css/main.a7fcd861.css",
-    "main.js": "/Responsive_Media.git/static/js/main.2a10e5a4.js",
-    "static/js/787.264cb4fb.chunk.js": "/Responsive_Media.git/static/js/787.264cb4fb.chunk.js",
-    "static/media/womanWithTea.mp4": "/Responsive_Media.git/static/media/womanWithTea.8f0e06b8f1454ccaba15.mp4",
-    "static/media/seaView.mp4": "/Responsive_Media.git/static/media/seaView.5cc3a60f311f80ce7d22.mp4",
-    "static/media/water.mp4": "/Responsive_Media.git/static/media/water.8134ec73f127cade3c0c.mp4",
-    "static/media/video.mp4": "/Responsive_Media.git/static/media/video.a45d91b256c678ac75a1.mp4",
-    "static/media/sea.jpg": "/Responsive_Media.git/static/media/sea.90333d5cde972937a762.jpg",
-    "static/media/abstracts.jpg": "/Responsive_Media.git/static/media/abstracts.40dc417ddde6c0b70c6b.jpg",
-    "static/media/coffee.jpg": "/Responsive_Media.git/static/media/coffee.ebd57b10b5552c5f2c63.jpg",
-    "static/media/cat.jpg": "/Responsive_Media.git/static/media/cat.5a54717cef5af1dd16df.jpg",
-    "static/media/leaf.jpg": "/Responsive_Media.git/static/media/leaf.8495ecfebf9bfdf29b3e.jpg",
-    "static/media/woman.jpg": "/Responsive_Media.git/static/media/woman.e429f06c5be60bd8a163.jpg",
-    "static/media/likeKIng.jpg": "/Responsive_Media.git/static/media/likeKIng.2d7c409b5ced638b26fd.jpg",
-    "static/media/Silence.jpg": "/Responsive_Media.git/static/media/Silence.79b8fd7031bf72aae385.jpg",
-    "index.html": "/Responsive_Media.git/index.html",
-    "main.a7fcd861.css.map": "/Responsive_Media.git/static/css/main.a7fcd861.css.map",
-    "main.2a10e5a4.js.map": "/Responsive_Media.git/static/js/main.2a10e5a4.js.map",
-    "787.264cb4fb.chunk.js.map": "/Responsive_Media.git/static/js/787.264cb4fb.chunk.js.map"
+    "main.css": "/Responsive_Media/static/css/main.a7fcd861.css",
+    "main.js": "/Responsive_Media/static/js/main.96ddde1b.js",
+    "static/js/787.264cb4fb.chunk.js": "/Responsive_Media/static/js/787.264cb4fb.chunk.js",
+    "static/media/womanWithTea.mp4": "/Responsive_Media/static/media/womanWithTea.8f0e06b8f1454ccaba15.mp4",
+    "static/media/seaView.mp4": "/Responsive_Media/static/media/seaView.5cc3a60f311f80ce7d22.mp4",
+    "static/media/water.mp4": "/Responsive_Media/static/media/water.8134ec73f127cade3c0c.mp4",
+    "static/media/video.mp4": "/Responsive_Media/static/media/video.a45d91b256c678ac75a1.mp4",
+    "static/media/sea.jpg": "/Responsive_Media/static/media/sea.90333d5cde972937a762.jpg",
+    "static/media/abstracts.jpg": "/Responsive_Media/static/media/abstracts.40dc417ddde6c0b70c6b.jpg",
+    "static/media/coffee.jpg": "/Responsive_Media/static/media/coffee.ebd57b10b5552c5f2c63.jpg",
+    "static/media/cat.jpg": "/Responsive_Media/static/media/cat.5a54717cef5af1dd16df.jpg",
+    "static/media/leaf.jpg": "/Responsive_Media/static/media/leaf.8495ecfebf9bfdf29b3e.jpg",
+    "static/media/woman.jpg": "/Responsive_Media/static/media/woman.e429f06c5be60bd8a163.jpg",
+    "static/media/likeKIng.jpg": "/Responsive_Media/static/media/likeKIng.2d7c409b5ced638b26fd.jpg",
+    "static/media/Silence.jpg": "/Responsive_Media/static/media/Silence.79b8fd7031bf72aae385.jpg",
+    "index.html": "/Responsive_Media/index.html",
+    "main.a7fcd861.css.map": "/Responsive_Media/static/css/main.a7fcd861.css.map",
+    "main.96ddde1b.js.map": "/Responsive_Media/static/js/main.96ddde1b.js.map",
+    "787.264cb4fb.chunk.js.map": "/Responsive_Media/static/js/787.264cb4fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7fcd861.css",
-    "static/js/main.2a10e5a4.js"
+    "static/js/main.96ddde1b.js"
   ]
 }
