@@ -1,4 +1,5 @@
 {
+  "homepage": "https://riccorichards.github.com/Responsive_Media.git",
   "name": "video",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeployed": "npm run build",
+    "deployed": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -35,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "react-scripts": "^5.0.1"
   }
 }
